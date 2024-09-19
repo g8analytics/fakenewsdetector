@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 from PIL import Image
-from sklearn.ensemble import *
+
 
 logo = Image.open('logo.PNG')
 
